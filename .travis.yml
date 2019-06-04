@@ -1,0 +1,5 @@
+languate : bash
+script:
+        - echo "travis test"
+        - echo "個々の内容がbashで実行される"
+        - ./same-test.sh
